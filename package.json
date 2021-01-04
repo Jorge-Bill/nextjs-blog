@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "jorge-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,6 @@
     "next": "^10.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
-  }
+  },
+  "license": "MIT"
 }
